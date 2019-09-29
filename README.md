@@ -1,0 +1,2 @@
+# cancerprediction
+In this data set, I work to improve the prediction of a logistic regression algorithm to predict cancer given 9 different features of a patient. To visualize the data on a 2D scale, I use Principal Component Analysis. I use a Training set, a Validation set and a Test set to find the accuracy, draw learning curves and improve the model. The learning curves are drawn based on the Training set and the Validation set. While accuracy is calculated using the Test set. Each branch is a new approach to tr to improve the model.
